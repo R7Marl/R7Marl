@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @R7Marl
-- 👀 I’m job in NSDOS.US
+- 👋 Hi, I’m Luka Mateo Ayala
+- 👀 I’m web programmer
